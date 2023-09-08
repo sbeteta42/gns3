@@ -8,7 +8,7 @@ apt install -y git
 ```
 # Installation
 ```bash
-https://github.com/sbeteta42/gns3.git
+git clone https://github.com/sbeteta42/gns3.git
 cd gns3
 chmod +x install_gn3_linux.sh
 ./install_gn3_linux.sh
