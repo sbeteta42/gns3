@@ -23,4 +23,5 @@ sudo usermod -aG libvirt $USER
 sudo usermod -aG kvm $USER
 sudo usermod -aG wireshark $USER
 sudo usermod -aG docker $USER
+sudo usermod -aG ubridge $USER
 echo " Installation de GNS3 terminé !"
