@@ -1,14 +1,19 @@
 # installation de GNS3
 echo " installation du dépot GNS3"
+sleep 5
 sudo add-apt-repository ppa:gns3/ppa -y
 
-echo " Mise à jour de vore OS... please wait..."
+echo " Mise à jour de votre OS... please wait..."
+sleep 5
 sudo apt update -y                                
+clear
 
 echo " Installation de GNS3..."
+sleep 5
 sudo apt install gns3-gui gns3-server -y
 
 echo " Ajout de dépendances fonctionnelles.."
+sleep 5
 sudo dpkg --add-architecture i386 -y
 sudo apt update -y
 clear
