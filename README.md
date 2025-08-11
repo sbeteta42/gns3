@@ -1,4 +1,4 @@
-# ![GNS3 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Windows_Domain_Controller_Logo.png/200px-Windows_Domain_Controller_Logo.png?text=GNS3) GNS3 – Installation automatisée sous Linux  🖥️
+# ![GNS3 Logo](https://avatars.githubusercontent.com/u/2739187?s=200&v=4) GNS3 – Installation automatisée sous Linux  🖥️
 
 ![OS](https://img.shields.io/badge/OS-Debian%20%7C%20Ubuntu%20%7C%20LinuxMint-blue)
 ![Status](https://img.shields.io/badge/Status-Automated%20Install-ready-success)
