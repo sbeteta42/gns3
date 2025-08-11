@@ -7,6 +7,10 @@
 Script d’installation automatisé de **GNS3** sur systèmes GNU/Linux (Debian, Ubuntu, Linux Mint).
 
 ---
+## Description
+Ce script installe et configure automatiquement GNS3 avec ses dépendances sur distrib Linux compatibles — parfait pour lancer rapidement une VM de lab réseau prêt à l’emploi.
+
+---
 
 ##  Pré-requis  
 - ISO **Debian**, **Ubuntu** ou **Linux Mint**  
@@ -21,3 +25,6 @@ git clone https://github.com/sbeteta42/gns3.git
 cd gns3
 chmod +x install_gn3_linux.sh
 ./install_gn3_linux.sh
+```
+## Licence
+MIT – Partage ouvert et usage sans prise de tête !
