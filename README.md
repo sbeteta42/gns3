@@ -26,5 +26,7 @@ cd gns3
 chmod +x install_gn3_linux.sh
 ./install_gn3_linux.sh
 ```
+---
+
 ## Licence
 MIT – Partage ouvert et usage sans prise de tête !
